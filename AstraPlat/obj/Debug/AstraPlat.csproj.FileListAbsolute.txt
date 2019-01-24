@@ -1,0 +1,14 @@
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\obj\Debug\AstraPlat.csprojAssemblyReference.cache
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\obj\Debug\AstraPlat.csproj.CoreCompileInputs.cache
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\bin\Debug\AstraPlat.exe.config
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\bin\Debug\AstraPlat.exe
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\bin\Debug\AstraPlat.pdb
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\obj\Debug\AstraPlat.exe
+c:\users\машимовн\source\repos\AstraPlat\AstraPlat\obj\Debug\AstraPlat.pdb
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\obj\Debug\AstraPlat.csprojAssemblyReference.cache
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\obj\Debug\AstraPlat.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\obj\Debug\AstraPlat.exe
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\obj\Debug\AstraPlat.pdb
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\bin\Debug\AstraPlat.exe.config
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\bin\Debug\AstraPlat.exe
+C:\Users\МашимовН\Desktop\AstraPlat\AstraPlat\bin\Debug\AstraPlat.pdb
